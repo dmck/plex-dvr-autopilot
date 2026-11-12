@@ -1,0 +1,13 @@
+secrets.env
+*.env
+!secrets.env.example
+!*.env.example
+ratings-cache.json
+series-cache.json
+series-added.json
+*-cache.json
+__pycache__/
+*.pyc
+.venv/
+*.log
+.DS_Store

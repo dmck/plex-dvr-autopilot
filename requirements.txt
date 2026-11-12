@@ -1,0 +1,2 @@
+# Stdlib only — no third-party packages.
+# Requires Python 3.8 or later (3.10+ recommended).
