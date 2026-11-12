@@ -22,7 +22,7 @@ Two small Python scripts talk to your Plex Media Server, read the Live TV guide,
 ## Install
 
 ```bash
-git clone <your-repo-url> plex-dvr-autopilot
+git clone https://github.com/dmck/plex-dvr-autopilot.git plex-dvr-autopilot
 cd plex-dvr-autopilot
 cp secrets.env.example secrets.env
 chmod 600 secrets.env
